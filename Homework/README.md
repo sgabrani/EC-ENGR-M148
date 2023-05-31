@@ -1,4 +1,4 @@
-#Homework Scores
+## Homework Scores
 The following table houses my homework scores through ECE M148. All homeworks combined were worth 40% of my final grade.
 
 | # | Scores
