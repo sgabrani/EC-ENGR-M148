@@ -5,7 +5,7 @@ The following table houses my homework scores through ECE M148. All homeworks co
 --- | ---
 | 1 | 100
 | 2 | 96
-| 3 | 
-| 4 |
-| 5 |
+| 3 | 93.5
+| 4 | 92
+| 5 | 100
 
