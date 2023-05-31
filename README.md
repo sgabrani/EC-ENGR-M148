@@ -4,7 +4,7 @@ UCLA EC ENGR 148/ COM SCI M148 (cross listed)
 This repository contains my work and course material for ECE M148, taken under Professor Lara Dolecek in Spring 2023. 
 
 
-Software used: Python
+Software used: Jupyter Notebook (Python)
 
 
 ## Course Distribution
